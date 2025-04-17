@@ -1,9 +1,3 @@
-/* 
-
-Realizado por Rui Araujo nº30118 
-Tema: Truchet Tiles
-
-*/
 
 let azulejos = []; // Array onde os azulejos vão ser armazenados
 let cores = []; // Guarda a paleta de cores dos azulejos
